@@ -1,0 +1,101 @@
+module.exports = [{
+    "id": 1,
+    "nombre": "Texas",
+    "población": 76854,
+    "superficie": 801707.32
+}, {
+    "id": 2,
+    "nombre": "New Jersey",
+    "población": 49791,
+    "superficie": 521856.65
+}, {
+    "id": 3,
+    "nombre": "Montana",
+    "población": 18981,
+    "superficie": 530659.99
+}, {
+    "id": 4,
+    "nombre": "Arkansas",
+    "población": 80795,
+    "superficie": 935495.68
+}, {
+    "id": 5,
+    "nombre": "California",
+    "población": 62056,
+    "superficie": 332251.8
+}, {
+    "id": 6,
+    "nombre": "California",
+    "población": 18242,
+    "superficie": 225516.29
+}, {
+    "id": 7,
+    "nombre": "Nevada",
+    "población": 21494,
+    "superficie": 455279.79
+}, {
+    "id": 8,
+    "nombre": "Florida",
+    "población": 41322,
+    "superficie": 518681.65
+}, {
+    "id": 9,
+    "nombre": "Virginia",
+    "población": 81487,
+    "superficie": 682342.0
+}, {
+    "id": 10,
+    "nombre": "District of Columbia",
+    "población": 13174,
+    "superficie": 61482.99
+}, {
+    "id": 11,
+    "nombre": "Illinois",
+    "población": 91116,
+    "superficie": 863065.85
+}, {
+    "id": 12,
+    "nombre": "New Jersey",
+    "población": 51197,
+    "superficie": 790251.59
+}, {
+    "id": 13,
+    "nombre": "District of Columbia",
+    "población": 90517,
+    "superficie": 827669.0
+}, {
+    "id": 14,
+    "nombre": "Texas",
+    "población": 46938,
+    "superficie": 801576.03
+}, {
+    "id": 15,
+    "nombre": "Texas",
+    "población": 98806,
+    "superficie": 917553.95
+}, {
+    "id": 16,
+    "nombre": "Colorado",
+    "población": 99538,
+    "superficie": 720874.79
+}, {
+    "id": 17,
+    "nombre": "Michigan",
+    "población": 39925,
+    "superficie": 331496.32
+}, {
+    "id": 18,
+    "nombre": "Florida",
+    "población": 89562,
+    "superficie": 697867.55
+}, {
+    "id": 19,
+    "nombre": "District of Columbia",
+    "población": 30087,
+    "superficie": 662673.65
+}, {
+    "id": 20,
+    "nombre": "Colorado",
+    "población": 1712,
+    "superficie": 863249.21
+}]
